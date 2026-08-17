@@ -2,8 +2,8 @@
 # Maximiliano Cabello Mata
 **Desarrollador de Software & Estudiante de Ingeniería | Especializado en Soluciones de Datos**
 
-<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:TU_CORREO@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="ww.linkedin.com/in/maximiliano-cabello-mata"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="cabellomaximiliano86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
